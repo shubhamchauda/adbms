@@ -15,9 +15,9 @@ insert into JOB values ('670','SALESPERSON');
 insert into JOB values ('671','MANAGER');
 insert into JOB values ('672','PRESIDENT');
 
-insert into EMPLOYEE values ('7369','SMITH','JOHM','Q','667','7902','1984-12-17','800',NULL,'20');
-insert into EMPLOYEE values ('7499','ALLEN','KEVIN','J','670','7698','1985-2-20','1600','300','30');
-insert into EMPLOYEE values ('7505','DOYLE','JEAN','K','671','7839','1985-4-04','2850',NULL,'30');
-insert into EMPLOYEE values ('7506','DENNIS','LYNN','S','671','7839','1985-5-15','2750',NULL,'30');
-insert into EMPLOYEE values ('7507','BAKER','LESLIE','D','671','7839','1985-6-10','2200',NULL,'40');
-insert into EMPLOYEE values ('7521','WARK','CYNTHIA','D','670','7698','1985-2-22','1250','500','30');
+insert into EMPLOYEE values ('7369','SMITH','JOHM','Q','667','7902','1984-12-17','800',NULL,'20');    #Simmi
+insert into EMPLOYEE values ('7499','ALLEN','KEVIN','J','670','7698','1985-2-20','1600','300','30');   #Anam
+insert into EMPLOYEE values ('7505','DOYLE','JEAN','K','671','7839','1985-4-04','2850',NULL,'30');      #Deepti
+insert into EMPLOYEE values ('7506','DENNIS','LYNN','S','671','7839','1985-5-15','2750',NULL,'30');     #Prashant
+insert into EMPLOYEE values ('7507','BAKER','LESLIE','D','671','7839','1985-6-10','2200',NULL,'40');    #Kirti
+insert into EMPLOYEE values ('7521','WARK','CYNTHIA','D','670','7698','1985-2-22','1250','500','30');   #Preksha
